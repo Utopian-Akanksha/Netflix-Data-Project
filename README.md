@@ -1,6 +1,6 @@
 # Netflix Data Analysis Project 🎥📊
 
-![Netflix Data Analysis Thumbnail](visuals/thumbnail.png)
+![Netflix Data Analysis Thumbnail](/thumbnail.png)
 
 ## **Overview**
 This project explores and analyzes Netflix data to uncover interesting insights about the platform's content library. The analysis focuses on identifying patterns, trends, and relationships in the dataset, and presenting findings through meaningful visualizations.

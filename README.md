@@ -33,4 +33,9 @@ This project explores and analyzes Netflix data to uncover interesting insights 
 - **Tools**: Jupyter Notebook
 
 ---
-
+## **Results**
+- **Some of the key findings**:
+  - Content Trends: Netflix's content production has increased significantly, especially in recent years, reflecting its global growth strategy.
+  - Genre Popularity: Documentaries lead as the most common genre, followed by Drama and Comedy, showcasing Netflix’s diverse content approach.
+  - Runtime Trends: Genres like Anthology/Dark Comedy and Heist Films have the longest average runtimes, indicating complex narratives.
+  - IMDb Scores: IMDb scores have steadily declined since 2015, reaching their lowest in 2021, suggesting challenges in maintaining content quality.
